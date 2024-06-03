@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivander08" alt="ivander08" /></a> </p>
 
-- 🔭 I’m currently working on [CXUE](https://github.com/ivander08/CXUE)
+- 🔭 I’m currently working on [CXUE](https://github.com/ivander08/CXUE) And [Tarumaeats](https://github.com/ivander08/Tarumaeats)
 
 - 🌱 I’m currently learning **MERN, Laravel, PostgreSQL, C#**
 
-- 🔭 And.. [Tarumaeats](https://github.com/ivander08/Tarumaeats)
 
 - 📫 How to reach me **ivanderseah08@gmail.com**
 
