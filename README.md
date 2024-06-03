@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivander</h1>
-<h3 align="center">UI/Designer, Full-Stack Web/Unity Game Developer</h3>
+<h3 align="center">UI/3D Designer, Full-Stack Web/Unity Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivander08&label=Profile%20views&color=0e75b6&style=flat" alt="ivander08" /> </p>
 
