@@ -11,4 +11,9 @@ I specialize in **backend web development** and creating **2D Unity games**, but
 * ✉️ How to reach me: [ivanderseah08@gmail.com](mailto:ivanderseah08@gmail.com)
 * 💼 Or check out my LinkedIn [here!](https://www.linkedin.com/in/ivanderivander/).
 
+## Visitors
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ivander08/count.svg" alt="" />
+</div>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=10&fontColor=FFFFFF&descAlignY=56&fontSize=90&fontAlignY=40&descAlign=50&animation=fadeIn&textBg=false&reversal=false&section=footer)
