@@ -23,4 +23,12 @@ I specialize in **backend web development** and creating **2D Unity games**, but
   
 </div>
 
+<div align="center">
+  
+  ## GitHub Stats
+  
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ivander08&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ivander's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivander08&layout=compact&theme=buefy&hide_border=true" /></a> |
+  | ------------- | ------------- |
+</div>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=10&fontColor=FFFFFF&descAlignY=56&fontSize=90&fontAlignY=40&descAlign=50&animation=fadeIn&textBg=false&reversal=false&section=footer)
