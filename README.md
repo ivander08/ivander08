@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=10&text=Ivander&fontColor=FFFFFF&desc=Backend%20and%20Game%20Developer&descAlignY=56&fontSize=90&fontAlignY=40&descAlign=50&animation=fadeIn&textBg=false&reversal=false)
 
 Hi! I'm **Ivander**, a **Computer Science student** who loves tech all-around.
-I specialize in **backend web development** and creating **2D Unity games**, but I also dive into **cybersecurity**, **mobile app development**, and **3D design**.
+I specialize in **backend web development** and creating **2D Unity games**, but I also dive into **front-end development** and **UI/UX design**.
 
 <div align="center">
   
@@ -14,7 +14,7 @@ I specialize in **backend web development** and creating **2D Unity games**, but
 * 💻 My backend stack is currently **Node.js/Express.js** and **Laravel**, but I'm looking into learning **Java Spring Boot** and **.NET**.
 * ⌨️ I type pretty fast at **228 WPM/96%/15s!** Check my [monkeytype](https://monkeytype.com/profile/Ivander) out.
 * ✉️ How to reach me: [ivanderseah08@gmail.com](mailto:ivanderseah08@gmail.com)
-* 💼 Or check out my LinkedIn [here!](https://www.linkedin.com/in/ivanderivander/).
+* 💼 Or check out my LinkedIn [here!](https://www.linkedin.com/in/ivanderivander/)
 
 <div align="center">
 
