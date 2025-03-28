@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=10&text=Ivander&fontColor=FFFFFF&desc=Backend%20and%20Game%20Developer&descAlignY=56&fontSize=90&fontAlignY=40&descAlign=50&animation=fadeIn&textBg=false&reversal=false)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=220000&text=ivander&fontSize=70&textBg=false&section=header&fontColor=FFD966&desc=backend%20and%20game%20dev&reversal=false)
 
 Hi! I'm **Ivander**, a **Computer Science student** who loves tech all-around.
 I specialize in **backend web development** and creating **2D Unity games**, but I also dive into **front-end development** and **UI/UX design**.
