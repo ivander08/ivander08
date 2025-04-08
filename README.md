@@ -80,7 +80,7 @@
   <h3 align="center">facts idk</h3>
   <p> /ᐠ≽•ヮ•≼マ i like devops & backend stuff </p>
   <p> 🎮 making games and system administration is fun</p>
-  <p> ⌨️ i type kinda fast—**228 wpm/96%/15s**—check https://monkeytype.com/profile/ivander but i don’t touch that shit anymore  /ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗  </p>
+  <p> ⌨️ i type kinda fast—**228 wpm/96%/15s**—check https://monkeytype.com/profile/ivander  /ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗  </p>
 </div>
 
 ---
